@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Demo;
 using Starter;
 
 namespace ADO.NET_Class
@@ -21,7 +22,9 @@ namespace ADO.NET_Class
             //Application.Run(new lblIndex());
             //Application.Run(new FrmSqlConnection());
             //Application.Run(new Form2());
-            Application.Run(new FrmConnected());
+            //Application.Run(new FrmConnected());
+            //Application.Run(new FrmTransactionIsolation());
+            Application.Run(new FrmDisConnected_離線DataSet());
         }
     }
 }

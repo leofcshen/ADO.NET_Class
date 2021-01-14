@@ -16,3 +16,9 @@ D:\Github\ADO.NET_Class\ADO.NET_Class\bin\Debug\sql\Database1.mdf
 D:\Github\ADO.NET_Class\ADO.NET_Class\bin\Debug\sql\Database1_log.ldf
 D:\Github\ADO.NET_Class\ADO.NET_Class\obj\Debug\Starter.FrmConnected.resources
 D:\Github\ADO.NET_Class\ADO.NET_Class\obj\Debug\ADO.NET.FrmImageFlags.resources
+D:\Github\ADO.NET_Class\ADO.NET_Class\obj\Debug\Demo.FrmTransactionIsolation.resources
+D:\Github\ADO.NET_Class\ADO.NET_Class\obj\Debug\Starter.FrmDisConnected_離線DataSet.resources
+D:\Github\ADO.NET_Class\ADO.NET_Class\obj\Debug\ADO.NET_Class.FrmProductDetails.resources
+D:\Github\ADO.NET_Class\ADO.NET_Class\obj\Debug\ADO.NET_Class.FrmProductManagement.resources
+D:\Github\ADO.NET_Class\ADO.NET_Class\obj\Debug\ADO.NET_Class.FrmAddDialog.resources
+D:\Github\ADO.NET_Class\ADO.NET_Class\obj\Debug\ADO.NET_Class._4.FrmRelation.resources
